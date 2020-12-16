@@ -12,7 +12,7 @@
 
 喜马拉雅 = type=cron,cronexp="10 20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js
 
-字幕组 = type=cron,cronexp="12 20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.js
+#字幕组 = type=cron,cronexp="12 20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.js
 
 爱奇艺 = type=cron,cronexp="14 20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
 
@@ -106,6 +106,6 @@
 
 企鹅读书 = type=cron,cronexp="*/11 * * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js
 
-惠头条 = type=cron,cronexp="*/10 6-23 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/HTT/htt_task_4.js
+#惠头条 = type=cron,cronexp="*/10 6-23 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/HTT/htt_task_4.js
 
 葱花视频 = type=cron,cronexp="*/10 6-23 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js
